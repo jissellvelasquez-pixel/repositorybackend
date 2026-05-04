@@ -1,0 +1,18 @@
+{
+  "name": "desplegando-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Jissell Velasquez Arapa <jissell.velasquez@tecsup.edu.pe>",
+  "license": "ISC",
+  "description": "",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^17.4.2",
+    "nodemon": "^3.1.14"
+  }
+}
